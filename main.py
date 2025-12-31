@@ -17,7 +17,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot Token (Environment variable or default fallback)
-BOT_TOKEN = os.getenv("BOT_TOKEN", "7648577586:AAG10G2khDJyFiQtwhVT7fyhjjo_AX8jFeI")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "7614452604:AAE0P2nRaJzsmwFFi5mvxVZ-InowwEqfsww")
 
 # --- Commands ---
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
